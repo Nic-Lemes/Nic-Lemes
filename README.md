@@ -7,7 +7,7 @@
 - Currently delving deeper into Front-End and its Frameworks
 - Looking to collaborate on frontend projects
 - All of my projects are available at https://github.com/Nic-Lemes
-- Make contact via email **nicolastloliveira@gmail.com** or by phone **+55 (19) 99305-6059**
+- Make contact via email **nicolastloliveira@gmail.com** or by phone **+55 (19) 99305-6059** <br>
 -Technical Training in Systems Development at ETEC Polivalente de Americana - Centro Paula Souza (2021-2023).
 
 
