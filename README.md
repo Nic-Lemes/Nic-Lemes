@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic-lemes&label=Profile%20views&color=0e75b6&style=flat" alt="nic-lemes" /> </p>
 
-- 🔭 I’m currently working with **UI/UX design and frontend freelancer**
+- I’m currently working with **UI/UX design and frontend freelancer**
+- Currently delving deeper into Front-End and its Frameworks
+- Looking to collaborate on frontend projects
+- All of my projects are available at https://github.com/Nic-Lemes
+- Make contact via email **nicolastloliveira@gmail.com** or by phone **+55 (19) 99305-6059**
+-Technical Training in Systems Development at ETEC Polivalente de Americana - Centro Paula Souza (2021-2023).
 
-- 🎓 I’m currently learning **React, React-Native and JS**
-
-- 👯 I’m looking to collaborate on **frontend projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nic-Lemes](https://github.com/Nic-Lemes)
-
-- 📫 How to reach me **nicolastloliveira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
