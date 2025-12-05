@@ -6,6 +6,7 @@
 - Currently delving deeper into Fullstack Development
 - Looking to collaborate on frontend projects
 - All of my projects are available at https://github.com/Nic-Lemes
+- See my LinkedIn profile at https://www.linkedin.com/in/nicolas-teixeira-lemes-de-oliveira/
 - Make contact via email **nicolastloliveira@gmail.com** or by phone **+55 (19) 99305-6059** 
 - Technical Training in Systems Development at ETEC Polivalente de Americana - Centro Paula Souza (2021-2023).
 - Computer Science at Estácio (pursuing)
