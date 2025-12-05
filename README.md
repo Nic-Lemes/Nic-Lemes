@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nícolas Lemes</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A full-stack developer student in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic-lemes&label=Profile%20views&color=0e75b6&style=flat" alt="nic-lemes" /> </p>
 
